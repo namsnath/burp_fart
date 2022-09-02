@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "kbd")(type "Legacy")(uri "${KIPRJMOD}/libs/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "keebio")(type "Legacy")(uri "${KIPRJMOD}/libs/keebio-components/keebio.lib")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "Legacy")(uri "${KIPRJMOD}/libs/kicad_lib_tmk/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "CherryMX")(type "Legacy")(uri "${KIPRJMOD}/libs/kicad-libraries/symbols/CherryMX.lib")(options "")(descr ""))
+)

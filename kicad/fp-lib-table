@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/libs/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/libs/kicad-libraries/footprints")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/libs/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/libs/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "burp_fart_keyswitches")(type "KiCad")(uri "${KIPRJMOD}/libs/burp_fart_keyswitches.pretty")(options "")(descr ""))
+)

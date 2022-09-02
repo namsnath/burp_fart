@@ -1,0 +1,18 @@
+[submodule "kicad/libs/kbd"]
+	path = kicad/libs/kbd
+	url = git@github.com:foostan/kbd
+[submodule "kicad/libs/kicad-libraries"]
+	path = kicad/libs/kicad-libraries
+	url = git@github.com:sszczep/kicad-libraries
+[submodule "kicad/libs/kicad_lib_tmk"]
+	path = kicad/libs/kicad_lib_tmk
+	url = git@github.com:tmk/kicad_lib_tmk
+[submodule "kicad/libs/keebio-components"]
+	path = kicad/libs/keebio-components
+	url = git@github.com:keebio/keebio-components
+[submodule "kicad/libs/Keebio-Parts.pretty"]
+	path = kicad/libs/Keebio-Parts.pretty
+	url = git@github.com:keebio/Keebio-Parts.pretty
+[submodule "kicad/libs/keyswitches.pretty"]
+	path = kicad/libs/keyswitches.pretty
+	url = git@github.com:maciejmatczak/keyswitches.pretty
